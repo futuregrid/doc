@@ -17,11 +17,13 @@ Rain
 Cloud Metric
   * Documentation: https://portal.futuregrid.org/doc/metric/index.html
   * Source: https://github.com/futuregrid/futuregrid-cloud-metrics
+  * Issues: https://github.com/futuregrid/futuregrid-cloud-metrics/issues
 ..  Documentation: https://futuregrid.github.com/futuregrid-cloud-metrics
 
 Virtual Cluster
   * Documentation: http://futuregrid.github.com/virtual-cluster
   * Source: https://github.com/futuregrid/virtual-cluster
+  * Issues: https://github.com/futuregrid/virtual-cluster/issues
 
 .. toctree::
    :maxdepth: 2
