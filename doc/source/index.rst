@@ -15,11 +15,11 @@ Rain
   * Documentation: http://futuregrid.github.com/rain
   * Source: https://github.com/futuregrid/rain
 
-Cloud Shift
+Rain Move: Cloud Shift
   * A project to move resources between different cloud and HPC services
-  * Documentation: todo
-  * Source: todo
-  * Issues: todo
+  * Documentation: http://futuregrid.github.com/rain-move
+  * Source: https://github.com/futuregrid/rain-move
+  * Issues: https://github.com/futuregrid/rain-move/issues
 
 Cloud Metric
   * A project to measure and display metric information about usage and utilization of your cloud 
