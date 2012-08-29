@@ -36,9 +36,9 @@ Virtual Cluster
 
 PasswdStack
   * A project to allow normal users to change their own password of OpenStack Dashboard
-  * Documentation: http://javidiaz.github.com/passwdstack/index.html
-  * Source: https://github.com/javidiaz/passwdstack
-  * Issues: https://github.com/javidiaz/passwdstack/issues
+  * Documentation: http://futuregrid.github.com/passwdstack/index.html
+  * Source: https://github.com/futuregrid/passwdstack
+  * Issues: https://github.com/futuregrid/passwdstack/issues
 
 Authentication
   * A project to unify authentication between Eucalyptus, OpenStack, and Nimbus
