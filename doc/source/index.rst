@@ -34,6 +34,12 @@ Virtual Cluster
   * Source: https://github.com/futuregrid/virtual-cluster
   * Issues: https://github.com/futuregrid/virtual-cluster/issues
 
+PasswdStack
+  * A project to allow normal users to change their own password of OpenStack Dashboard
+  * Documentation: http://futuregrid.github.com/passwdstack/index.html
+  * Source: https://github.com/futuregrid/passwdstack
+  * Issues: https://github.com/futuregrid/passwdstack/issues
+
 Authentication
   * A project to unify authentication between Eucalyptus, OpenStack, and Nimbus
   * Documentation: todo
