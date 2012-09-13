@@ -23,7 +23,7 @@ Rain Move: Cloud Shift
 
 Teefaa
   * A project to dynamically provision operating systems
-  * Documentation: http://futuregrid.github.com/teefaaa
+  * Documentation: http://futuregrid.github.com/teefaa
   * Source: https://github.com/futuregrid/teefaa
   * Issues: https://github.com/futuregrid/teefaa/issues
 
