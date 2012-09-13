@@ -21,8 +21,8 @@ Rain Move: Cloud Shift
   * Source: https://github.com/futuregrid/rain-move
   * Issues: https://github.com/futuregrid/rain-move/issues
 
-Rain Move: Cloud Shift
-  * A project to move resources between different cloud and HPC services
+Teefaa
+  * A project to dynamically provision operating systems
   * Documentation: http://futuregrid.github.com/teefaaa
   * Source: https://github.com/futuregrid/teefaa
   * Issues: https://github.com/futuregrid/teefaa/issues
