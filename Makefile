@@ -13,6 +13,10 @@ gregor:
 	git config --global user.name "Gregor von Laszewski"
 	git config --global user.email laszewski@gmail.com
 
+git-ssh:
+	git remote set-url origin git@github.com:futuregrid/doc.git
+
+
 ######################################################################
 # INSTALLATION
 ######################################################################
