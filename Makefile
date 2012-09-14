@@ -1,3 +1,6 @@
+PATHNAME=$(shell pwd)
+BASENAME=$(shell basename $(PATHNAME))
+
 ######################################################################
 # GIT INTERFACES
 ######################################################################
@@ -14,7 +17,7 @@ gregor:
 	git config --global user.email laszewski@gmail.com
 
 git-ssh:
-	git remote set-url origin git@github.com:futuregrid/doc.git
+	git remote set-url origin git@github.com:futuregrid/$(BASENAME).git
 
 
 ######################################################################
