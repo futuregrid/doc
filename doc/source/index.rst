@@ -1,9 +1,12 @@
 Welcome to FuturGrid Development Projects
 =========================================
 
-Within FutureGrid we provide a number of devellopment projects. This
-page is used to provide you with easy links to them. All projects
-listed are managed in github.
+We are working on a number of devellopment projects. Instead of just
+providing a single project, we decided to split the development up in
+some smaller subproject. This allows the groups to work independently
+from each other and avoids the problem that a compile error in one
+code causes an issue in another. All projects listed her are managed
+in github.
 
 Projects
 ============
