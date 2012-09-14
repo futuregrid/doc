@@ -1,3 +1,2 @@
-Documentation is at 
-
+Documentation is at
 http://futuregrid.github.com/doc
