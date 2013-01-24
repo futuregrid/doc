@@ -13,13 +13,6 @@ Projects
 
 Code related to FutureGrid
 
-Cloud Metric
-  * A project to measure and display metric information about usage and utilization of your cloud 
-  * Documentation: http://futuregrid.github.com/cloud-metrics
-  * Example: https://portal.futuregrid.org/doc/metric/index.html
-  * Source: https://github.com/futuregrid/cloud-metrics
-  * Issues: https://github.com/futuregrid/cloud-metrics/issues
-
 Rain
   * A project to do bare metal and VM based dynamic provisioning
   * Documentation: http://futuregrid.github.com/rain
@@ -37,17 +30,19 @@ Teefaa
   * Source: https://github.com/futuregrid/teefaa
   * Issues: https://github.com/futuregrid/teefaa/issues
 
+Cloud Metric
+  * A project to measure and display metric information about usage and utilization of your cloud 
+  * Documentation: http://futuregrid.github.com/cloud-metrics
+  * Example: https://portal.futuregrid.org/doc/metric/index.html
+  * Source: https://github.com/futuregrid/cloud-metrics
+  * Issues: https://github.com/futuregrid/cloud-metrics/issues
+
+
 Virtual Cluster
   * A project to create a SLURM based cluster in your cloud and run MPI jobs on it
   * Documentation: http://futuregrid.github.com/virtual-cluster
   * Source: https://github.com/futuregrid/virtual-cluster
   * Issues: https://github.com/futuregrid/virtual-cluster/issues
-
-Inventory
-  * A project to create simple inventory for dynamic provisioned Cloud and HPC resources
-  * Documentation: http://futuregrid.github.com/inventory
-  * Source: https://github.com/futuregrid/inventory
-  * Issues: https://github.com/futuregrid/inventory/issues
 
 PasswdStack
   * A project to allow normal users to change their own password of OpenStack Dashboard
