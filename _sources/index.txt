@@ -1,14 +1,24 @@
 Welcome to FuturGrid Development Projects
 =========================================
 
-Within FutureGrid we provide a number of devellopment projects. This
-page is used to provide you with easy links to them. All projects
-listed are managed in github.
+We are working on a number of devellopment projects. Instead of just
+providing a single project, we decided to split the development up in
+some smaller subproject. This allows the groups to work independently
+from each other and avoids the problem that a compile error in one
+code causes an issue in another. All projects listed her are managed
+in github.
 
 Projects
 ============
 
 Code related to FutureGrid
+
+Cloud Metric
+  * A project to measure and display metric information about usage and utilization of your cloud 
+  * Documentation: http://futuregrid.github.com/cloud-metrics
+  * Example: https://portal.futuregrid.org/doc/metric/index.html
+  * Source: https://github.com/futuregrid/cloud-metrics
+  * Issues: https://github.com/futuregrid/cloud-metrics/issues
 
 Rain
   * A project to do bare metal and VM based dynamic provisioning
@@ -27,19 +37,17 @@ Teefaa
   * Source: https://github.com/futuregrid/teefaa
   * Issues: https://github.com/futuregrid/teefaa/issues
 
-Cloud Metric
-  * A project to measure and display metric information about usage and utilization of your cloud 
-  * Documentation: http://futuregrid.github.com/cloud-metrics
-  * Example: https://portal.futuregrid.org/doc/metric/index.html
-  * Source: https://github.com/futuregrid/cloud-metrics
-  * Issues: https://github.com/futuregrid/cloud-metrics/issues
-
-
 Virtual Cluster
   * A project to create a SLURM based cluster in your cloud and run MPI jobs on it
   * Documentation: http://futuregrid.github.com/virtual-cluster
   * Source: https://github.com/futuregrid/virtual-cluster
   * Issues: https://github.com/futuregrid/virtual-cluster/issues
+
+Inventory
+  * A project to create simple inventory for dynamic provisioned Cloud and HPC resources
+  * Documentation: http://futuregrid.github.com/inventory
+  * Source: https://github.com/futuregrid/inventory
+  * Issues: https://github.com/futuregrid/inventory/issues
 
 PasswdStack
   * A project to allow normal users to change their own password of OpenStack Dashboard
