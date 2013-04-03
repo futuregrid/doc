@@ -108,7 +108,7 @@ html_theme = 'bootstrap'
 # documentation.
 html_theme_options = {
     # Navigation bar title. (Default: ``project`` value)
-    'navbar_title': "Demo",
+    'navbar_title': "FutureGrid Doc",
 
     # Global TOC depth for "site" navbar tab. (Default: 1)
     # Switching to -1 shows all levels.
