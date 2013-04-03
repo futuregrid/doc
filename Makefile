@@ -47,8 +47,6 @@ force:
 	make -f Makefile nova
 	make -f Makefile pip
 	pip install -U dist/*.tar.gz
-	#cp bin/cm $(VIRTUAL_ENV)/bin/cm
-	#chmod a+x $(VIRTUAL_ENV)/bin/cm
 
 install:
 	pip install dist/*.tar.gz
@@ -57,14 +55,14 @@ test:
 	make -f Makefile clean	
 	make -f Makefile distall
 	pip install --upgrade dist/*.tar.gz
-	fg-cluster
-	fg-local
+
 
 ######################################################################
 # PYPI
 ######################################################################
 
-upload:
+
+pip-upload:
 	make -f Makefile pip
 #	python setup.py register
 	python setup.py sdist upload
@@ -94,10 +92,10 @@ qc:
 clean:
 	find . -name "*~" -exec rm {} \;  
 	find . -name "*.pyc" -exec rm {} \;  
-	rm -rf build dist *.egg-info *~ #*
-	cd doc; make clean
+	rm -rf build dist 
+	rm -f *~ 
 	rm -rf *.egg-info
-
+	cd doc; make clean
 
 #############################################################################
 # SPHINX DOC
